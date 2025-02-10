@@ -1,0 +1,11 @@
+{
+  "name": "pdfsigner",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --write '**/*.java'"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-java": "^1.6.2"
+  }
+}
